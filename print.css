@@ -1,0 +1,13 @@
+/* print.css */
+/* Body text and page background */
+body {background-color: #ffffff; color: #000000; font-family: "Times New Roman", serif; font-size: 12pt; margin: auto;}
+/* Level 2 headings */
+h2 {font-family: "Times New Roman", serif; font-size: 16pt;}
+/* Level 3 headings */
+h3{font-family: "Times New Roman", serif; font-size: 14pt;}
+/* Style for tables of thumbnail images */
+table.thumbs{border-collapse: collapse; width: 100%; margin: auto; text-align: center;}
+/* Style for table cells that contain thumbnails */
+td.thumbs{border: none; padding: 15px; margin: auto;}
+/* Style for thumbnail images */
+img.thumbs{width: 170px; height: 230px; border-width: 0px; text-align: center;}
